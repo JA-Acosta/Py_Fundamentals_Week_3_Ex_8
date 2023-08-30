@@ -1,0 +1,4 @@
+This is the twentieth program derived from 100 program prompts suggested by ChatGPT for a 4 week python course.
+
+Prompt(s) Used:
+51. Write a program that appends text to an existing file.
